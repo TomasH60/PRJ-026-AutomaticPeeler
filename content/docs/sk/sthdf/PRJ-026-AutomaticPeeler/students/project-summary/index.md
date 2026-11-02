@@ -138,64 +138,70 @@ fm_reserved2: ""
 ## 🔖 Identifikácia
 ## 1️⃣ Názov projektu
 *(Jasný, výstižný, inšpiratívny – ako by sa mal objaviť na plagáte.)*
-- **Názov projektu:** `PRJ_XXX_<Názov>_<ST_XXX>_<ST_XXX>`
-- **Stručný popis:** 2–3 vety
+- **Názov projektu:** `PRJ_026_AutomaticPeeler_ST_056_ST_057`
+- **Stručný popis:** Projekt sa zameriava na návrh a výrobu kompaktného ručného šúpača na ovocie a zeleninu. Konštrukcia bude vyrobená prevažne z hliníka s dôrazom na odolnosť, kvalitné spracovanie a prémiový vzhľad. Cieľom je vytvoriť praktickú kuchynskú pomôcku, ktorá spája malé rozmery s pohodlným používaním.
 
 ## 2️⃣ Členovia tímu
 
 | ST ID | Meno | Rola v tíme | Kompetencie |
 |-------|------|-------------|-------------|
-| ST001 |      | Project Lead | koordinácia |
-| ST002 |      | Developer | implementácia |
-| ST003 |      | Designer | UI/UX |
+| ST056 |      | Project Lead, Designer | koordinácia |
+| ST057 |      | Developer, Machinist | implementácia |
 
 ## 3️⃣ Motivácia tímu
-- Prečo ste si vybrali tento projekt?
-- Aký osobný alebo profesný zmysel má pre vás riešenie tejto témy?
-- Prečo je projekt dôležitý
-- Aký problém rieši
+- **Prečo sme si vybrali tento projekt:** Náš tím má skúsenosti s výrobou súčiastok na CNC strojoch a zaujíma sa o návrh a výrobu fyzických produktov. Projekt ručného šúpača nám umožní nadviazať na tieto skúsenosti a využiť ich pri tvorbe praktického výrobku.
+- **Osobný a profesný zmysel:** Chceme si vyskúšať celý proces vývoja produktu – od prvotného nápadu a návrhu cez výrobu a testovanie až po dodanie hotového výrobku. Získame tak skúsenosti aj s plánovaním práce a prepájaním jednotlivých krokov vývoja.
+- **Dôležitosť projektu:** Projekt je pre nás príležitosťou splniť požiadavky predmetu prostredníctvom témy, ktorá nás baví a zodpovedá zameraniu nášho tímu.
+- **Aký problém riešime:** Vnímame priestor na trhu pre kompaktný ručne ovládaný šúpač na ovocie a zeleninu s prémiovým spracovaním. Chceme preto navrhnúť výrobok s prevažne hliníkovou konštrukciou, ktorý kladie dôraz na odolnosť, vzhľad a pohodlné používanie. Predpoklad o medzere na trhu si overíme porovnaním existujúcich produktov a spätnou väzbou od potenciálnych používateľov.
 
 ## 4️⃣ Cieľ a pridaná hodnota projektu
-- Aký je finálny cieľ
-- Ako spoznáme, že projekt je úspešný
+- **Finálny cieľ:** Dodať hotový a funkčný ručný šúpač na ovocie a zeleninu s kompaktnými rozmermi a prevažne hliníkovou konštrukciou.
+- **Kritérium úspechu:** Projekt bude úspešný, keď praktickým testovaním overíme, že hotový výrobok dokáže opakovane ošúpať ovocie a zeleninu a jeho mechanizmus funguje podľa návrhu.
 
 ## 5️⃣ Popis riešenia
-- Stručne opíšte architektúru, nástroje a technológie, ktoré použijete.
-- Zamerajte sa na **"čo"** riešite, nie ešte "ako".
+Riešením bude kompaktný ručne ovládaný šúpač na ovocie a zeleninu s pevnou a robustnou konštrukciou a prémiovým spracovaním. Všetky diely, pri ktorých je to z hľadiska ich funkcie vhodné, budú vyrobené z hliníka. Čepeľ a ďalšie súčasti, ktorých funkcia vyžaduje iné vlastnosti materiálu, budú vyrobené z materiálov zodpovedajúcich ich účelu.
+
+Pri výrobe využijeme CNC frézovanie a ďalšie spôsoby spracovania kovov podľa potrieb jednotlivých dielov. Dôraz bude kladený na presnosť spracovania, pevnosť zostavy a pohodlné ručné ovládanie.
 
 ## 6️⃣ Projektový plán
-- Odhadovaný čas na prácu: _x hodín / týždeň_
-- Predpokladaný stav v čase prezentácie: _MVP / prototyp / dokumentácia / funkčný produkt_
+- Odhadovaný čas na prácu: **10 hodín týždenne**.
+- Predpokladaný stav v čase prezentácie: **Funkčný produkt s dokumentáciou a ukážkou šúpania ovocia a zeleniny**.
 - Hlavné míľniky:
-  - [ ] Príprava
-  - [ ] Implementácia
-  - [ ] Testovanie
-  - [ ] Prezentácia
+  - [ ] Príprava – definovanie požiadaviek, návrh mechanizmu, vytvorenie 3D modelu a výber materiálov.
+  - [ ] Výroba a montáž – príprava výrobných podkladov, CNC frézovanie a ďalšie spracovanie dielov, obstaranie čepele a spojovacích prvkov a zostavenie šúpača.
+  - [ ] Testovanie – overenie funkčnosti pri opakovanom šúpaní ovocia a zeleniny, kontrola pevnosti zostavy a pohodlia pri ovládaní, úpravy podľa výsledkov skúšok.
+  - [ ] Prezentácia – dokončenie dokumentácie, príprava prezentácie a praktická ukážka hotového výrobku.
 
 ### 📅 Míľniky a výstupy
 - **Do januára dodáme:**
-  - [ ] prototyp
-  - [ ] prezentáciu
-  - [ ] dokumentáciu
+  - [ ] funkčný a otestovaný šúpač
+  - [ ] prezentáciu s praktickou ukážkou
+  - [ ] dokumentáciu návrhu, výroby a výsledkov testovania
 
 ## 7️⃣ Zákazník a hodnoty
-- Kto by mohol byť používateľom projektu?
-- Čo mu to prinesie?
+- **Cieľový zákazník:** Zákazník, ktorý si chce prémiovo vybaviť kuchyňu a je ochotný investovať do kvalitného spracovania, materiálov a dizajnu kuchynských pomôcok.
+- **Hodnota pre zákazníka:** Funkčný ručný šúpač na ovocie a zeleninu, ktorý zároveň slúži ako estetický doplnok kuchyne. Spája praktické využitie s prémiovým vzhľadom a robustnou, prevažne hliníkovou konštrukciou.
 
 ## 8️⃣ Očakávané výstupy
-- Dokumentácia: (napr. README, KNIFE článok, demo stránka...)
-- Artefakty: (napr. prototyp, appka, vizualizácia...)
+- **Dokumentácia:** Popis návrhu, výroby a testovania šúpača vrátane použitých materiálov a výsledkov praktických skúšok.
+- **Fyzický produkt:** Hotový a funkčný ručný šúpač na ovocie a zeleninu s prevažne hliníkovou konštrukciou.
 
 ## 📚 Kontext
-- KNIFE príspevky, literatúra, inšpirácie
+- **Východiská:** Nadväzujeme na predchádzajúce skúsenosti tímu s CNC obrábaním a výrobou kovových súčiastok.
+- **Inšpirácie:** Pri návrhu budeme porovnávať existujúce ručné šúpače a prémiové kuchynské pomôcky so zameraním na mechanizmus, spracovanie a pohodlie pri používaní.
+- **Podklady:** Využijeme technickú dokumentáciu použitých materiálov, nástrojov a nakupovaných súčiastok. Konkrétne zdroje doplníme počas návrhu; skúsenosti z výroby môžu poslúžiť ako základ vlastného KNIFE príspevku.
 
 ## 🧭 Riziká a závislosti
-- Riziká projektu
-- Na čom závisí
+- **Funkčnosť mechanizmu:** Rozdielne tvary a tvrdosť ovocia a zeleniny môžu ovplyvniť kvalitu šúpania. Návrh overíme praktickými skúškami a podľa výsledkov upravíme.
+- **Výroba a montáž:** Nepresnosti pri obrábaní alebo nevhodne zvolené tolerancie môžu spôsobiť problémy pri zostavení a chode mechanizmu. Pred výrobou skontrolujeme rozmery a vzájomné uloženie dielov.
+- **Čas a náklady:** Opakovaná výroba dielov či oneskorené dodanie materiálu môžu predĺžiť realizáciu a zvýšiť náklady. V pláne počítame s rezervou na úpravy a testovanie.
+- **Používanie a údržba:** Pri návrhu musíme zohľadniť manipuláciu s ostrou čepeľou, stabilitu výrobku, čistenie a vhodnosť materiálov a povrchov na kontakt s potravinami.
+- **Závislosti:** Realizácia závisí od dostupnosti CNC frézy, vhodných nástrojov, hliníkového materiálu, čepele a spojovacích prvkov, ako aj od času členov tímu na výrobu a skúšky.
 
 ## 9️⃣ Reflexia a ďalšie kroky
-Čo očakávate, že sa naučíte?
-Ako by sa projekt mohol rozvíjať ďalej?
+- **Čo sa chceme naučiť:** Prejsť celým procesom od nápadu a technického návrhu cez výrobu a montáž až po overenie funkčnosti a odovzdanie hotového produktu. Chceme si rozšíriť skúsenosti s návrhom pre CNC výrobu, výberom materiálov, plánovaním práce a riešením problémov odhalených pri testovaní.
+- **Ďalšie kroky:** Po zostavení výrobku získame spätnú väzbu od potenciálnych používateľov a vyhodnotíme pohodlie ovládania, kvalitu šúpania a jednoduchosť čistenia. Na základe výsledkov môžeme upraviť mechanizmus, ergonómiu alebo povrchové spracovanie.
+- **Možný rozvoj:** Ak sa výrobok osvedčí, preskúmame možnosti malej výrobnej série, odhadneme výrobné náklady a overíme záujem zákazníkov o prémiový ručný šúpač.
 
 ---
 
