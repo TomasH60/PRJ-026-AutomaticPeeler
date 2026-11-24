@@ -23,20 +23,21 @@ guid: "966f053a-3047-4ca6-8261-64e025cfd32d"
 dao: "sthdf"
 
 # Názov zápisu – dopĺňa používateľ
-title: "about me"
+title: "About Me – Tomáš Horička a Marek Fiľo"
 
 # Krátky popis – dopĺňa používateľ (voliteľné)
-description: "{{DESCRIPTION}}"
+description: "Predstavenie členov tímu PRJ-026-AutomaticPeeler, ich zamerania a očakávaní od predmetu."
 
 
 # 👥 AUTHORSHIP ------------------------------------------------------
 
 # Hlavný autor – z globálneho configu
-author: "Roman Kazicka"
+author: "Tomáš Horička"
 
 # Zoznam autorov – generuje skript
 authors:
-  - "Roman Kazicka"
+  - "Tomáš Horička"
+  - "Marek Fiľo"
 
 
 # 🗂 CLASSIFICATION ---------------------------------------------------
@@ -71,10 +72,10 @@ locale: "sk"
 created: "2026-10-06 15:23"
 
 # Dátum poslednej úpravy – dopĺňa človek
-modified: "2026-10-06 15:23"
+modified: "2026-11-24"
 
 # Stav dokumentu – default "backlog"
-status: "backlog"
+status: "draft"
 
 # Viditeľnosť – default "public"
 privacy: "public"
@@ -133,27 +134,55 @@ fm_reserved2: ""
 
 <!-- SDLC_INSTANCE_ID: PRJ-026-AutomaticPeeler -->
 
-# 🙋 About Me
+# 🙋 About Me – náš tím
 
-## 🔖 Základné informácie
-- Meno a priezvisko
-- Študentský GitHub profil (link)
-- Kontaktný e-mail
+Sme Tomáš Horička a Marek Fiľo, tím projektu **PRJ-026-AutomaticPeeler** v predmete Systémové myslenie v IT a digitálna fabrikácia. Navrhujeme kompaktný ručne ovládaný šúpač na ovocie a zeleninu s prevažne hliníkovou konštrukciou. Nadväzujeme na tímové skúsenosti s CNC výrobou a chceme prejsť celým procesom od nápadu po funkčný výrobok.
 
-## 🎯 Profesijné záujmy
-- Oblasti, ktoré ma bavia (IT, dizajn, podnikanie, …)
-- Aké skúsenosti by som chcel získať
+## Tomáš Horička – ST057
 
-## 💡 Moje hobby / záujmy
-- Šport, hudba, varenie, cestovanie …
-- Čokoľvek, čo odhaľuje „ľudskú stránku"
+### 🔖 Základné informácie
+- **Meno a priezvisko:** Tomáš Horička
+- **Študentské ID:** ST057
+- **Rola v projekte:** Developer, Machinist – implementácia a výroba.
+- **Študentský GitHub profil:** Zatiaľ neuvedený.
+- **Kontaktný e-mail:** Zatiaľ neuvedený.
 
-## 🚀 Očakávania od predmetu
-- Čo chcem dosiahnuť v rámci kurzu
-- Čo očakávam od spolupráce s tímom a komunitou
+### 🎯 Profesijné záujmy
+Zaujíma ma praktická realizácia technických návrhov a výroba fyzických produktov. V projekte sa chcem venovať prepojeniu návrhu s výrobou dielov, montážou a overením funkčnosti šúpača. Chcem si rozšíriť skúsenosti s prípravou výrobných podkladov, CNC obrábaním a riešením problémov pri zostavovaní výrobku.
 
-## 🚀 Čo viem ponúknuť
-- Čo chcem ponúknuť v rámci kurzu
+### 💡 Moje záujmy
+V rámci spoločného projektu ma zaujíma práca s kovovými súčiastkami a tvorba praktických výrobkov. Baví ma možnosť premeniť návrh na predmet, ktorého fungovanie sa dá priamo vyskúšať.
+
+### 🚀 Očakávania od predmetu
+Chcem sa naučiť lepšie plánovať postup od návrhu cez výrobu až po testovanie a zachytiť tento postup v zrozumiteľnej dokumentácii. Od tímovej spolupráce očakávam priebežné konzultácie návrhu, jasné rozdelenie úloh a spoločné riešenie problémov zistených pri výrobe a skúškach.
+
+### 🤝 Čo viem ponúknuť
+Mojím príspevkom bude najmä implementácia a výrobná časť projektu. Chcem sa podieľať na príprave dielov, montáži a praktickom overovaní výrobku. Pre spolužiakov chcem spracovať postup dokumentovania výroby tak, aby bolo jasné, z akého návrhu diel vznikol, čo sa počas práce zmenilo a čo treba pri ďalšej verzii zlepšiť.
+
+## Marek Fiľo – ST056
+
+### 🔖 Základné informácie
+- **Meno a priezvisko:** Marek Fiľo
+- **Študentské ID:** ST056
+- **Rola v projekte:** Project Lead, Designer – koordinácia tímu a návrh výrobku.
+- **Študentský GitHub profil:** Zatiaľ neuvedený.
+- **Kontaktný e-mail:** Zatiaľ neuvedený.
+
+### 🎯 Profesijné záujmy
+Zaujíma ma návrh fyzických produktov, ich funkčnosť a vzhľad. V projekte chcem prepojiť kompaktné rozmery, pohodlné ručné ovládanie a kvalitné spracovanie šúpača. Chcem si rozšíriť skúsenosti s návrhom mechanizmu, tvorbou 3D modelu a koordináciou jednotlivých krokov vývoja.
+
+### 💡 Moje záujmy
+V rámci spoločného projektu ma zaujíma produktový dizajn a hľadanie praktických riešení pre každodenné používanie. Chcem sa venovať tomu, ako spolu súvisia vzhľad výrobku, jeho konštrukcia a spôsob používania.
+
+### 🚀 Očakávania od predmetu
+Chcem si vyskúšať vedenie projektu od prvotných požiadaviek po prezentáciu funkčného výrobku. Od spolupráce s tímom očakávam otvorenú spätnú väzbu, priebežné overovanie návrhu z pohľadu výroby a spoločné rozhodovanie o potrebných úpravách.
+
+### 🤝 Čo viem ponúknuť
+Mojím príspevkom bude koordinácia práce a návrhová časť projektu. Chcem pomôcť s definovaním požiadaviek, plánovaním míľnikov a udržiavaním súladu medzi návrhom a výsledným výrobkom. Pre spolužiakov chcem spracovať postup, ako premeniť všeobecný nápad na konkrétne požiadavky a rozhodnutia, ktoré sa dajú neskôr overiť.
+
+## 🔗 Súvisiace výstupy
+- [Project Summary – spoločný zámer a plán](../project-summary/index.md)
+- [Knowledge Contribution – príspevky oboch členov tímu](../knowledge-contribution/index.md)
 
 ## Navigácia
-- [↩️ Späť](../index.md)
+- [↩️ Späť na prehľad výstupov](../index.md)
