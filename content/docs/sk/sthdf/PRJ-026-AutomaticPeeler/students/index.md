@@ -170,4 +170,4 @@ Toto je rozcestník k tvojim povinným výstupom pre tento predmet.
    ```
 
 ## Navigácia
-- [↩️ Späť](../../index.md)
+- [↩️ Späť](../index.md)

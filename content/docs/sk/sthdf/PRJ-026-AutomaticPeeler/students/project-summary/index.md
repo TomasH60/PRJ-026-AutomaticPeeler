@@ -137,7 +137,6 @@ fm_reserved2: ""
 
 ## 🔖 Identifikácia
 ## 1️⃣ Názov projektu
-*(Jasný, výstižný, inšpiratívny – ako by sa mal objaviť na plagáte.)*
 - **Názov projektu:** `PRJ_026_AutomaticPeeler_ST_056_ST_057`
 - **Stručný popis:** Projekt sa zameriava na návrh a výrobu kompaktného ručného šúpača na ovocie a zeleninu. Konštrukcia bude vyrobená prevažne z hliníka s dôrazom na odolnosť, kvalitné spracovanie a prémiový vzhľad. Cieľom je vytvoriť praktickú kuchynskú pomôcku, ktorá spája malé rozmery s pohodlným používaním.
 
@@ -145,8 +144,8 @@ fm_reserved2: ""
 
 | ST ID | Meno | Rola v tíme | Kompetencie |
 |-------|------|-------------|-------------|
-| ST056 |      | Project Lead, Designer | koordinácia |
-| ST057 |      | Developer, Machinist | implementácia |
+| ST056 | Marek Fiľo | Project Lead, Designer | koordinácia |
+| ST057 | Tomáš Horička | Developer, Machinist | implementácia |
 
 ## 3️⃣ Motivácia tímu
 - **Prečo sme si vybrali tento projekt:** Náš tím má skúsenosti s výrobou súčiastok na CNC strojoch a zaujíma sa o návrh a výrobu fyzických produktov. Projekt ručného šúpača nám umožní nadviazať na tieto skúsenosti a využiť ich pri tvorbe praktického výrobku.
